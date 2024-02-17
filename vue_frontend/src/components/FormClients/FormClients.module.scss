@@ -1,0 +1,16 @@
+.form-clients {
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+  border: 1px solid gray;
+  border-radius: 15px;
+}
+
+.form-clients__input {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 8px;
+  margin-bottom: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
